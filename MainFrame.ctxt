@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainFrame
+comment1.params=
+comment1.target=MainFrame()
+comment2.params=
+comment2.target=void\ generatePassword()
+comment3.params=
+comment3.target=void\ updateHistory()
+numComments=4

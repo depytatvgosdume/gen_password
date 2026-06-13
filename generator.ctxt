@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=generator
+comment1.params=g
+comment1.target=boolean\ proverka(char)
+comment2.params=len_pass
+comment2.target=java.lang.String\ gen(int)
+comment3.params=mass
+comment3.target=java.lang.String\ proverka(java.lang.String)
+numComments=4
